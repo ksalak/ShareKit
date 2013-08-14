@@ -75,15 +75,6 @@
 		7A16F383161341570019645D /* NSMutableURLRequest+Parameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368211DBE3B9004A1712 /* NSMutableURLRequest+Parameters.m */; };
 		7A16F384161341570019645D /* NSString+URLEncoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368411DBE3B9004A1712 /* NSString+URLEncoding.m */; };
 		7A16F385161341570019645D /* NSURL+Base.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368611DBE3B9004A1712 /* NSURL+Base.m */; };
-		7A16F386161341570019645D /* OAAsynchronousDataFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368F11DBE3B9004A1712 /* OAAsynchronousDataFetcher.m */; };
-		7A16F387161341570019645D /* OAConsumer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369111DBE3B9004A1712 /* OAConsumer.m */; };
-		7A16F388161341570019645D /* OADataFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369311DBE3B9004A1712 /* OADataFetcher.m */; };
-		7A16F389161341570019645D /* OAHMAC_SHA1SignatureProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369511DBE3B9004A1712 /* OAHMAC_SHA1SignatureProvider.m */; };
-		7A16F38A161341570019645D /* OAMutableURLRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369711DBE3B9004A1712 /* OAMutableURLRequest.m */; };
-		7A16F38B161341570019645D /* OAPlaintextSignatureProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369911DBE3B9004A1712 /* OAPlaintextSignatureProvider.m */; };
-		7A16F38C161341570019645D /* OARequestParameter.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369D11DBE3B9004A1712 /* OARequestParameter.m */; };
-		7A16F38D161341570019645D /* OAServiceTicket.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369F11DBE3B9004A1712 /* OAServiceTicket.m */; };
-		7A16F38E161341570019645D /* OAToken.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536A211DBE3B9004A1712 /* OAToken.m */; };
 		7A16F3B016134A790019645D /* SHKInstagram.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A16F3AE16134A790019645D /* SHKInstagram.h */; };
 		7A16F3B216134A790019645D /* SHKInstagram.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A16F3AF16134A790019645D /* SHKInstagram.m */; };
 		7A16F3B816134A890019645D /* Base64Transcoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A26E5B4156CD8A70011E15F /* Base64Transcoder.h */; };
@@ -233,15 +224,6 @@
 		7AB534D21552BE7D00171BCE /* NSMutableURLRequest+Parameters.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368211DBE3B9004A1712 /* NSMutableURLRequest+Parameters.m */; };
 		7AB534D41552BE7D00171BCE /* NSString+URLEncoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368411DBE3B9004A1712 /* NSString+URLEncoding.m */; };
 		7AB534D61552BE7D00171BCE /* NSURL+Base.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368611DBE3B9004A1712 /* NSURL+Base.m */; };
-		7AB534DE1552BE7D00171BCE /* OAAsynchronousDataFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368F11DBE3B9004A1712 /* OAAsynchronousDataFetcher.m */; };
-		7AB534E01552BE7D00171BCE /* OAConsumer.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369111DBE3B9004A1712 /* OAConsumer.m */; };
-		7AB534E21552BE7D00171BCE /* OADataFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369311DBE3B9004A1712 /* OADataFetcher.m */; };
-		7AB534E41552BE7D00171BCE /* OAHMAC_SHA1SignatureProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369511DBE3B9004A1712 /* OAHMAC_SHA1SignatureProvider.m */; };
-		7AB534E61552BE7D00171BCE /* OAMutableURLRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369711DBE3B9004A1712 /* OAMutableURLRequest.m */; };
-		7AB534E81552BE7D00171BCE /* OAPlaintextSignatureProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369911DBE3B9004A1712 /* OAPlaintextSignatureProvider.m */; };
-		7AB534EA1552BE7D00171BCE /* OARequestParameter.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369D11DBE3B9004A1712 /* OARequestParameter.m */; };
-		7AB534EC1552BE7D00171BCE /* OAServiceTicket.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5369F11DBE3B9004A1712 /* OAServiceTicket.m */; };
-		7AB534EF1552BE7D00171BCE /* OAToken.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536A211DBE3B9004A1712 /* OAToken.m */; };
 		7AB534F21552BE7D00171BCE /* SHKRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536A511DBE3B9004A1712 /* SHKRequest.m */; };
 		7AB534F41552BE7D00171BCE /* SHKXMLResponseParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AB5FAB414D30AC700795BA9 /* SHKXMLResponseParser.m */; };
 		7AB534F61552BE7D00171BCE /* SHKPrint.m in Sources */ = {isa = PBXBuildFile; fileRef = BA465F1E14CC3C5A00B52394 /* SHKPrint.m */; };
@@ -523,6 +505,7 @@
 		7AEE0451160E1DD200FEC06E /* SHKTumblr.m in Sources */ = {isa = PBXBuildFile; fileRef = 43C91DF411EBAE4800F31FAE /* SHKTumblr.m */; };
 		C0D3077B147BDC8100E74EA3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0D3077A147BDC8100E74EA3 /* CoreLocation.framework */; };
 		D95025B7164BFCA900D8D8BF /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A536B411DBE3B9004A1712 /* Reachability.m */; };
+		D9651B371781D667004AFF8A /* OAAsynchronousDataFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 43A5368F11DBE3B9004A1712 /* OAAsynchronousDataFetcher.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -3204,15 +3187,6 @@
 				7A16F383161341570019645D /* NSMutableURLRequest+Parameters.m in Sources */,
 				7A16F384161341570019645D /* NSString+URLEncoding.m in Sources */,
 				7A16F385161341570019645D /* NSURL+Base.m in Sources */,
-				7A16F386161341570019645D /* OAAsynchronousDataFetcher.m in Sources */,
-				7A16F387161341570019645D /* OAConsumer.m in Sources */,
-				7A16F388161341570019645D /* OADataFetcher.m in Sources */,
-				7A16F389161341570019645D /* OAHMAC_SHA1SignatureProvider.m in Sources */,
-				7A16F38A161341570019645D /* OAMutableURLRequest.m in Sources */,
-				7A16F38B161341570019645D /* OAPlaintextSignatureProvider.m in Sources */,
-				7A16F38C161341570019645D /* OARequestParameter.m in Sources */,
-				7A16F38D161341570019645D /* OAServiceTicket.m in Sources */,
-				7A16F38E161341570019645D /* OAToken.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -3347,15 +3321,6 @@
 				7AB534D21552BE7D00171BCE /* NSMutableURLRequest+Parameters.m in Sources */,
 				7AB534D41552BE7D00171BCE /* NSString+URLEncoding.m in Sources */,
 				7AB534D61552BE7D00171BCE /* NSURL+Base.m in Sources */,
-				7AB534DE1552BE7D00171BCE /* OAAsynchronousDataFetcher.m in Sources */,
-				7AB534E01552BE7D00171BCE /* OAConsumer.m in Sources */,
-				7AB534E21552BE7D00171BCE /* OADataFetcher.m in Sources */,
-				7AB534E41552BE7D00171BCE /* OAHMAC_SHA1SignatureProvider.m in Sources */,
-				7AB534E61552BE7D00171BCE /* OAMutableURLRequest.m in Sources */,
-				7AB534E81552BE7D00171BCE /* OAPlaintextSignatureProvider.m in Sources */,
-				7AB534EA1552BE7D00171BCE /* OARequestParameter.m in Sources */,
-				7AB534EC1552BE7D00171BCE /* OAServiceTicket.m in Sources */,
-				7AB534EF1552BE7D00171BCE /* OAToken.m in Sources */,
 				7AB534F21552BE7D00171BCE /* SHKRequest.m in Sources */,
 				7AB534F41552BE7D00171BCE /* SHKXMLResponseParser.m in Sources */,
 				7AB534F61552BE7D00171BCE /* SHKPrint.m in Sources */,
@@ -3461,6 +3426,7 @@
 				7AB8050F15AC7AAF004FB430 /* ENOAuthViewController.m in Sources */,
 				7AB8051015AC7BC9004FB430 /* GTMNSString+HTML.m in Sources */,
 				7A16F3B216134A790019645D /* SHKInstagram.m in Sources */,
+				D9651B371781D667004AFF8A /* OAAsynchronousDataFetcher.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
